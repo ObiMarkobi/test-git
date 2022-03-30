@@ -1,3 +1,5 @@
 public class ClassTestr {
-    System.out.println("Prova di Tester");
+    public static void main(String[] args) {
+        System.out.println("Prova di Tester");
+    }
 }
